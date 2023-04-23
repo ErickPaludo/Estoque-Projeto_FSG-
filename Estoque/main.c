@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Bem vindo ao codeblocks");
     return 0;
 }
