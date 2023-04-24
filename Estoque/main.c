@@ -3,6 +3,14 @@
 
 int main()
 {
-    printf("Bem vindo ao codeblocks");
+    char user;
+    int pass;
+    int verfificator;
+
+   do
+   {
+       printf("User: ");
+       scanf("%s", &user);
+   }while(user == 'ADM' || user != 'UserD');
     return 0;
 }
