@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682300069 source:c:\users\paludo\desktop\estoque\estoque\main.c
+	<stdio.h>
+	<stdlib.h>
+
